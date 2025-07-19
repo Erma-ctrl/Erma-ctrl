@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, Python , node.js and mongoDb**
 
-- 💬 Ask me about **C++, Python, HTML, CSS**
+- 💬 Ask me about **C++, Python, HTML, CSS,js, and React**
 
 - 📫 How to reach me **ermiasfilfile8@gmail.com**
 
