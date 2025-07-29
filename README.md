@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java, Python , node.js and mongoDb**
 
 - 💬 Ask me about **C++, Python, HTML, CSS,js, and React**
-- my portfolio myacess.netlify.app
+- my portfolio myacess.netlify.app it is pending
 
 - 📫 How to reach me **ermiasfilfile8@gmail.com**
 
